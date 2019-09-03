@@ -4,20 +4,20 @@
 
 ## *Examples of Some of My Projects...*
 
-[Sentimment Analysis of College Football Teams](/sample_page)
+### [Sentiment Analysis of College Football Teams](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Image Recognition](/pdf/sample_presentation.pdf)
+### [Image Recognition](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Weather Pattern Wordcloud](http://example.com/)
+### [Weather Pattern Wordcloud](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
-## *Articles I Have Written Related to AI, Machine Learning & Data Science*
+## *Articles I Have Written Related to AI, ML & Data Science*
 
 - [What is Artificial Intelligence and Why Should I Care?](https://www.linkedin.com/pulse/what-artificial-intelligence-why-should-i-care-john-dennis/)
 - [Project 2 Title](http://example.com/)
