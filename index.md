@@ -4,22 +4,22 @@
 
 ## *Examples of Some of My Projects...*
 
-[Project 1 Title](/sample_page)
+[Sentimment Analysis of College Football Teams](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Image Recognition](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Weather Pattern Wordcloud](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
-## *Interesting Sites Related to AI, Machine Learning & Data Science*
+## *Articles I Have Written Related to AI, Machine Learning & Data Science*
 
-- [Project 1 Title](http://example.com/)
+- [What is Artificial Intelligence and Why Should I Care?](https://www.linkedin.com/pulse/what-artificial-intelligence-why-should-i-care-john-dennis/)
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
