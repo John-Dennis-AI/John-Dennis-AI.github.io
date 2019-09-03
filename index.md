@@ -2,7 +2,7 @@
 
 ---
 
-### Examples of Some of My Projects...
+## *Examples of Some of My Projects...*
 
 [Project 1 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
@@ -17,7 +17,7 @@
 
 ---
 
-### Interesting Sites Related to AI, Machine Learning & Data Science
+## *Interesting Sites Related to AI, Machine Learning & Data Science*
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
