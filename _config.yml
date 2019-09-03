@@ -2,7 +2,6 @@ title: John Dennis # your name (or website title) here
 logo: "/images/John.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <h2>Welcome to my website!</h2>
-  <br><br>
   <a href="https://www.linkedin.com/in/john-dennis-ai/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
