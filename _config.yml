@@ -3,8 +3,6 @@ logo: "/images/John.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Welcome to my peronal website!
   <br><br>
-  Come back often!
-  <br><br>
   <a href="https://www.linkedin.com/in/john-dennis-ai/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
