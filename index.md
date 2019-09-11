@@ -8,7 +8,7 @@
 <img src="images/WineReviews.JPG?raw=true"/>
 
 ---
-### [My Personal Training Coach Chatbot...](/pdf/Chatbot Coach.pdf)
+### [A Training Coach Chatbot to Get Me Motivated!](/pdf/Chatbot Coach.pdf)
 <img src="images/ChatbotCoach.JPG?raw=true"/>
 
 ---
