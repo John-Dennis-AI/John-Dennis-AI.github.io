@@ -1,4 +1,4 @@
-# **My Portfolio of Projects and Articles**
+# **My Portfolio of Projects & Articles**
 
 ---
 
@@ -8,7 +8,7 @@
 <img src="images/WineReviews.JPG?raw=true"/>
 
 ---
-## [2. A Training Coach Chatbot to Get Me Motivated!](/pdf/Chatbot Coach.pdf)
+## [2. A Motivational Training Coach Chatbot!](/pdf/Chatbot Coach.pdf)
 <img src="images/ChatbotCoach.JPG?raw=true"/>
 
 ---
