@@ -5,7 +5,7 @@
 ## *Examples of Some of My Projects:*
 
 ### [Sentiment Analysis of International Wines...](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/WineReviews.JPG?raw=true"/>
 
 ---
 ### [My Personal Coach Chatbot...](/pdf/sample_presentation.pdf)
