@@ -12,7 +12,7 @@
 <img src="images/ChatbotCoach.JPG?raw=true"/>
 
 ---
-## [3. Wordcloud Analysis of Some U.S. States...](/pdf/Weather Wordcloud.pdf)
+## [3. Wordcloud Weather Analysis Across the U.S.](/pdf/Weather Wordcloud.pdf)
 <img src="images/WeatherWordcloud.JPG?raw=true"/>
 
 ---
