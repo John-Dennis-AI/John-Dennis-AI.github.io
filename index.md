@@ -2,22 +2,22 @@
 
 ---
 
-## *Examples of Some of My Projects:*
+## *Projects*
 
-### [Sentiment Analysis of International Wines...](/pdf/Wine Sentiment Analysis.pdf)
+## [Sentiment Analysis of International Wines...](/pdf/Wine Sentiment Analysis.pdf)
 <img src="images/WineReviews.JPG?raw=true"/>
 
 ---
-### [A Training Coach Chatbot to Get Me Motivated!](/pdf/Chatbot Coach.pdf)
+## [A Training Coach Chatbot to Get Me Motivated!](/pdf/Chatbot Coach.pdf)
 <img src="images/ChatbotCoach.JPG?raw=true"/>
 
 ---
-### [Wordcloud Analysis of Some U.S. States...](/pdf/Weather Wordcloud.pdf)
+## [Wordcloud Analysis of Some U.S. States...](/pdf/Weather Wordcloud.pdf)
 <img src="images/WeatherWordcloud.JPG?raw=true"/>
 
 ---
 
-## *Articles I Have Written Related to AI, ML & Data Science*
+## *Articles*
 
 - [What is Artificial Intelligence and Why Should I Care?](https://www.linkedin.com/pulse/what-artificial-intelligence-why-should-i-care-john-dennis/)
 - [Project 2 Title](http://example.com/)
