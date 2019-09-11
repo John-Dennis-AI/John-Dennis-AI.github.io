@@ -4,15 +4,15 @@
 
 ## *---Projects---*
 
-## [Sentiment Analysis of International Wines...](/pdf/Wine Sentiment Analysis.pdf)
+## [1. Sentiment Analysis of International Wines...](/pdf/Wine Sentiment Analysis.pdf)
 <img src="images/WineReviews.JPG?raw=true"/>
 
 ---
-## [A Training Coach Chatbot to Get Me Motivated!](/pdf/Chatbot Coach.pdf)
+## [2. A Training Coach Chatbot to Get Me Motivated!](/pdf/Chatbot Coach.pdf)
 <img src="images/ChatbotCoach.JPG?raw=true"/>
 
 ---
-## [Wordcloud Analysis of Some U.S. States...](/pdf/Weather Wordcloud.pdf)
+## [3. Wordcloud Analysis of Some U.S. States...](/pdf/Weather Wordcloud.pdf)
 <img src="images/WeatherWordcloud.JPG?raw=true"/>
 
 ---
