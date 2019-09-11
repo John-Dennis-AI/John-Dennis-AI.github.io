@@ -4,7 +4,7 @@
 
 ## *Examples of Some of My Projects:*
 
-### ++[Sentiment Analysis of International Wines...](/pdf/Wine Sentiment Analysis.pdf)
+<u>### [Sentiment Analysis of International Wines...](/pdf/Wine Sentiment Analysis.pdf)
 <img src="images/WineReviews.JPG?raw=true"/>
 
 ---
