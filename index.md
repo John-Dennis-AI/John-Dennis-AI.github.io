@@ -12,8 +12,8 @@
 <img src="images/ChatbotCoach.JPG?raw=true"/>
 
 ---
-### [U.S. Weather Pattern Wordcloud...](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+### [Wordcloud Analysis of Some U.S. States...](/pdf/Weather Wordcloud.pdf)
+<img src="images/WeatherWordcloud.JPG?raw=true"/>
 
 ---
 
