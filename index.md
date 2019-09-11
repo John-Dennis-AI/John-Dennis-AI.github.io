@@ -9,7 +9,7 @@
 
 ---
 ### [My Personal Inspirational Coach Chatbot...](/pdf/Chatbot Coach.pdf)
-<img src="images/ChatbotCoach.PDF?raw=true"/>
+<img src="images/ChatbotCoach.JPG?raw=true"/>
 
 ---
 ### [U.S. Weather Pattern Wordcloud...](http://example.com/)
