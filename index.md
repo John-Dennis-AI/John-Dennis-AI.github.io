@@ -1,18 +1,18 @@
-# **My Portfolio**
+# **My Portfolio of Projects and Articles**
 
 ---
 
-## *Examples of Some of My Projects...*
+## *Examples of Some of My Projects:*
 
-### [Sentiment Analysis of College Football Teams](/sample_page)
+### [Sentiment Analysis of International Wines...](/sample_page)
+<img src="images/WineReviews.jpg?raw=true"/>
+
+---
+### [My Personal Coach Chatbot...](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-### [Image Recognition](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-### [Weather Pattern Wordcloud](http://example.com/)
+### [U.S. Weather Pattern Wordcloud...](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
