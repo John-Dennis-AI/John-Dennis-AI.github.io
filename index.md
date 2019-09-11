@@ -8,8 +8,8 @@
 <img src="images/WineReviews.JPG?raw=true"/>
 
 ---
-### [My Personal Inspirational Coach Chatbot...](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+### [My Personal Inspirational Coach Chatbot...](/pdf/Chatbot Coach.pdf)
+<img src="images/ChatbotCoach.PDF?raw=true"/>
 
 ---
 ### [U.S. Weather Pattern Wordcloud...](http://example.com/)
