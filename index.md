@@ -2,7 +2,7 @@
 
 ---
 
-## *Projects_______________________________________*
+## *--------------------------Projects--------------------------*
 
 ## [1. Sentiment Analysis of International Wines...](/pdf/Wine Sentiment Analysis.pdf)
 <img src="images/WineReviews.JPG?raw=true"/>
@@ -17,7 +17,7 @@
 
 ---
 
-## *Articles_______________________________________*
+## *--------------------------Articles--------------------------*
 
 - [What is Artificial Intelligence and Why Should I Care?](https://www.linkedin.com/pulse/what-artificial-intelligence-why-should-i-care-john-dennis/)
 - [Project 2 Title](http://example.com/)
