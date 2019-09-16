@@ -2,22 +2,26 @@
 
 ---
 
-## *--------------------------Projects--------------------------*
+## *-----------------------------Projects-----------------------------*
 
-## [1. Sentiment Analysis of International Wines...](/pdf/Wine Sentiment Analysis.pdf)
+## [1. Deep Learning Image Classifier for Shoes](/pdf/Shoe Image Classifier.pdf)
+<img src="images/ShoeImageClassifier.JPG?raw=true"/>
+
+---
+## [2. Sentiment Analysis of International Wines](/pdf/Wine Sentiment Analysis.pdf)
 <img src="images/WineReviews.JPG?raw=true"/>
 
 ---
-## [2. A Motivational Training Coach Chatbot!](/pdf/Chatbot Coach.pdf)
+## [3. A Motivational Training Coach Chatbot!](/pdf/Chatbot Coach.pdf)
 <img src="images/ChatbotCoach.JPG?raw=true"/>
 
 ---
-## [3. Wordcloud Weather Analysis Across the U.S.](/pdf/Weather Wordcloud.pdf)
+## [4. Wordcloud Weather Analysis Across the U.S.](/pdf/Weather Wordcloud.pdf)
 <img src="images/WeatherWordcloud.JPG?raw=true"/>
 
 ---
 
-## *--------------------------Articles--------------------------*
+## *-----------------------------Articles-----------------------------*
 
 - [What is Artificial Intelligence and Why Should I Care?](https://www.linkedin.com/pulse/what-artificial-intelligence-why-should-i-care-john-dennis/)
 - [Project 2 Title](http://example.com/)
