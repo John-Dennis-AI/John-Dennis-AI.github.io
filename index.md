@@ -24,10 +24,8 @@
 ## *-----------------------------Articles-----------------------------*
 
 - [What is Artificial Intelligence and Why Should I Care?](https://www.linkedin.com/pulse/what-artificial-intelligence-why-should-i-care-john-dennis/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Machine Learning - Can Machines Really Learn?](https://www.linkedin.com/pulse/machine-learning-can-machines-really-learn-john-dennis/)
+
 
 ---
 
