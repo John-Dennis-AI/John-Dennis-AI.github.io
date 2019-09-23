@@ -8,7 +8,7 @@
   <a href="/pdf/Shoe Image Classifier.pdf">
     <img src="images/ShoeImageClassifier.JPG?raw=true"/>
   </a>
----
+
 ## [2. Sentiment Analysis of International Wines](/pdf/Wine Sentiment Analysis.pdf)
 <img src="images/WineReviews.JPG?raw=true"/>
 
