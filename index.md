@@ -5,7 +5,7 @@
 ## *-----------------------------Projects-----------------------------*
 
 ## [1. Deep Learning Image Classifier for Shoes](/pdf/Shoe Image Classifier.pdf)
-<img src="images/ShoeImageClassifier.JPG?raw=true"/>[(/pdf/Shoe Image Classifier.pdf)]
+[<img src="images/ShoeImageClassifier.JPG?raw=true"/>(/pdf/Shoe Image Classifier.pdf)]
 
 ---
 ## [2. Sentiment Analysis of International Wines](/pdf/Wine Sentiment Analysis.pdf)
