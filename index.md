@@ -18,18 +18,18 @@
   <a href="/pdf/Chatbot Coach.pdf">
     <img src="images/ChatbotCoach.JPG?raw=true"/>
   </a>
----
+
 ## [4. Wordcloud Weather Analysis Across the U.S.](/pdf/Weather Wordcloud.pdf)
   <a href="/pdf/Weather Wordcloud.pdf">
     <img src="images/WeatherWordcloud.JPG?raw=true"/>
   </a>
----
+
 ## [5. Marathon Record Breakers by Country](https://public.tableau.com/profile/john.dennis#!/vizhome/MarathonRecordsbyCountry/MarathonRecordsbyCountry)
   <a href="https://public.tableau.com/profile/john.dennis#!/vizhome/MarathonRecordsbyCountry/MarathonRecordsbyCountry">
     <img src="images/MarathonRecords.JPG?raw=true"/>
   </a>
 
----
+
 ## *-----------------------------Articles-----------------------------*
 
 - [What is Artificial Intelligence and Why Should I Care?](https://www.linkedin.com/pulse/what-artificial-intelligence-why-should-i-care-john-dennis/)
