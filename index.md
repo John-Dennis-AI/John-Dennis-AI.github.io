@@ -2,7 +2,7 @@
 
 ---
 
-## *-----------------------------Projects-----------------------------*
+## *-----------------------------My Projects-----------------------------*
 
 ## [1. Deep Learning Image Classifier for Shoes](/pdf/Shoe Image Classifier.pdf)
   <a href="/pdf/Shoe Image Classifier.pdf">
@@ -30,7 +30,7 @@
   </a>
 
 
-## *-----------------------------Articles-----------------------------*
+## *-----------------------------My Articles-----------------------------*
 
 - [What is Artificial Intelligence and Why Should I Care?](https://www.linkedin.com/pulse/what-artificial-intelligence-why-should-i-care-john-dennis/)
 - [Machine Learning - Can Machines Really Learn?](https://www.linkedin.com/pulse/machine-learning-can-machines-really-learn-john-dennis/)
