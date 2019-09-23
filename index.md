@@ -21,7 +21,7 @@
 
 ---
 ## [5. Marathon Record Breakers by Country](https://public.tableau.com/profile/john.dennis#!/vizhome/MarathonRecordsbyCountry/MarathonRecordsbyCountry)
-<img src="images/WeatherWordcloud.JPG?raw=true"/>
+<img src="images/MarathonRecords.JPG?raw=true"/>
 
 ---
 ## *-----------------------------Articles-----------------------------*
