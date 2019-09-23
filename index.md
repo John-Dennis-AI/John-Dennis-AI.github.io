@@ -10,19 +10,24 @@
   </a>
 
 ## [2. Sentiment Analysis of International Wines](/pdf/Wine Sentiment Analysis.pdf)
-<img src="images/WineReviews.JPG?raw=true"/>
+  <a href="/pdf/Wine Sentiment Analysis.pdf">
+    <img src="images/WineReviews.JPG?raw=true"/>
+  </a>
 
----
 ## [3. A Motivational Training Coach Chatbot!](/pdf/Chatbot Coach.pdf)
-<img src="images/ChatbotCoach.JPG?raw=true"/>
-
+  <a href="/pdf/Chatbot Coach.pdf">
+    <img src="images/ChatbotCoach.JPG?raw=true"/>
+  </a>
 ---
 ## [4. Wordcloud Weather Analysis Across the U.S.](/pdf/Weather Wordcloud.pdf)
-<img src="images/WeatherWordcloud.JPG?raw=true"/>
-
+  <a href="/pdf/Weather Wordcloud.pdf">
+    <img src="images/WeatherWordcloud.JPG?raw=true"/>
+  </a>
 ---
 ## [5. Marathon Record Breakers by Country](https://public.tableau.com/profile/john.dennis#!/vizhome/MarathonRecordsbyCountry/MarathonRecordsbyCountry)
-<img src="images/MarathonRecords.JPG?raw=true"/>
+  <a href="https://public.tableau.com/profile/john.dennis#!/vizhome/MarathonRecordsbyCountry/MarathonRecordsbyCountry">
+    <img src="images/MarathonRecords.JPG?raw=true"/>
+  </a>
 
 ---
 ## *-----------------------------Articles-----------------------------*
