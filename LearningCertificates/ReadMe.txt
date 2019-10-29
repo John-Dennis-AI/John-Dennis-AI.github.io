@@ -1,1 +1,1 @@
-#These are learning certificates for courses I have taken.
+These are learning certificates for courses I have taken.
