@@ -9,7 +9,7 @@
     <img src="images/ShoeImageClassifier.JPG?raw=true"/>
   </a>
 
-## [2. Sentiment Analysis of International Wines](/pdf/Wine Sentiment Analysis.pdf)
+## [2. NLP - Sentiment Analysis of International Wines](/pdf/Wine Sentiment Analysis.pdf)
   <a href="/pdf/Wine Sentiment Analysis.pdf">
     <img src="images/WineReviews.JPG?raw=true"/>
   </a>
@@ -19,7 +19,7 @@
     <img src="images/ChatbotCoach.JPG?raw=true"/>
   </a>
 
-## [4. Wordcloud Weather Analysis Across the U.S.](/pdf/Weather Wordcloud.pdf)
+## [4. NLP - Wordcloud Weather Analysis Across the U.S.](/pdf/Weather Wordcloud.pdf)
   <a href="/pdf/Weather Wordcloud.pdf">
     <img src="images/WeatherWordcloud.JPG?raw=true"/>
   </a>
