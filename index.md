@@ -4,7 +4,7 @@
 
 ## *-----------------------------My Projects-----------------------------*
 
-## [1. Deep Learning Image Classifier for Shoes](/pdf/Shoe Image Classifier.pdf)
+## [1. TensorFlow Deep Learning Image Classifier for Shoes](/pdf/Shoe Image Classifier.pdf)
   <a href="/pdf/Shoe Image Classifier.pdf">
     <img src="images/ShoeImageClassifier.JPG?raw=true"/>
   </a>
@@ -14,7 +14,7 @@
     <img src="images/WineReviews.JPG?raw=true"/>
   </a>
 
-## [3. A Motivational Training Coach Chatbot!](/pdf/Chatbot Coach.pdf)
+## [3. AWS Chatbot - Motivational Training Coach!](/pdf/Chatbot Coach.pdf)
   <a href="/pdf/Chatbot Coach.pdf">
     <img src="images/ChatbotCoach.JPG?raw=true"/>
   </a>
@@ -24,7 +24,7 @@
     <img src="images/WeatherWordcloud.JPG?raw=true"/>
   </a>
 
-## [5. Marathon Record Breakers by Country](https://public.tableau.com/profile/john.dennis#!/vizhome/MarathonRecordsbyCountry/MarathonRecordsbyCountry)
+## [5. Tableau Marathon Record Breakers by Country](https://public.tableau.com/profile/john.dennis#!/vizhome/MarathonRecordsbyCountry/MarathonRecordsbyCountry)
   <a href="https://public.tableau.com/profile/john.dennis#!/vizhome/MarathonRecordsbyCountry/MarathonRecordsbyCountry">
     <img src="images/MarathonRecords.JPG?raw=true"/>
   </a>
