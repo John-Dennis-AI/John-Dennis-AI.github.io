@@ -25,7 +25,7 @@
 
 ## [5. NLP - Customizable Text Summarizer](/pdf/Text Summarizer.pdf)
   <a href="/pdf/Text Summarizer.pdf">
-    <img src="images/WeatherWordcloud.JPG?raw=true"/>
+    <img src="images/TextSummarizer.JPG?raw=true"/>
   </a>
   
 ## [6. AWS Chatbot - Motivational Training Coach!](/pdf/Chatbot Coach.pdf)
