@@ -4,9 +4,9 @@
 
 ## *-----------------------------My Projects-----------------------------*
 
-## [1. XGBoost Decision Tree Classifier for Wine](/pdf/XGBoost Wine.pdf)
-  <a href="/pdf/XGBoost Wine.pdf">
-    <img src="images/XGBoostWine.JPG?raw=true"/>
+## [1. XGBoost Decision Tree for Breast Cancer Diagnosis](/pdf/XGBoost Breast Cancer.pdf)
+  <a href="/pdf/XGBoost Breast Cancer.pdf">
+    <img src="images/XGBoostBreastCancer.JPG?raw=true"/>
   </a>
 
 ## [2. NLP - PyTorch Language Translator Using Recurrent Neural Networks](/pdf/PyTorch Language Translator.pdf)
