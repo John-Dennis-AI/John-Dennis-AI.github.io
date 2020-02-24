@@ -4,7 +4,7 @@
 
 ## *-----------------------------My Projects-----------------------------*
 
-## [1. NLP - Abstractive Text Summarization Using Keras (TensorFlow) & Attention Mechanism](/pdf/Abstractive Text Summarization.pdf)
+## [1. NLP - Abstractive Text Summarizer Using Keras (TensorFlow) & Attention Mechanism](/pdf/Abstractive Text Summarization.pdf)
   <a href="/pdf/Abstractive Text Summarization.pdf">
     <img src="images/AbstractiveTextSummarization.JPG?raw=true"/>
   </a>
@@ -38,7 +38,7 @@
     <img src="images/WeatherWordcloud.JPG?raw=true"/>
   </a>
 
-## [8. NLP - Customizable Text Summarizer](/pdf/Text Summarizer.pdf)
+## [8. NLP - Extractive Text Summarizer - Customizable](/pdf/Text Summarizer.pdf)
   <a href="/pdf/Text Summarizer.pdf">
     <img src="images/TextSummarizer.JPG?raw=true"/>
   </a>
